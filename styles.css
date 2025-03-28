@@ -2,7 +2,7 @@ body {
     font-family: 'Marianne', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
 }
 
 .banner-container {
@@ -56,4 +56,8 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+h1 {
+    font-size: 1.25em;
 }
